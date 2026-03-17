@@ -197,8 +197,8 @@ Developed a modern GUI-based Weather Application using Python and Tkinter, featu
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: your-profile-link
+Muhammad Talha Islam
+Linkedin: [your-profile-link](https://www.linkedin.com/in/talha-islam49599/)
 
 ---
 

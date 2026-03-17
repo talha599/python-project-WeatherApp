@@ -1,7 +1,5 @@
 # python-project-WeatherApp
 
-# 🌦 Ultimate Weather App (Python GUI)
-
 A modern **Weather Application** built using **Python (Tkinter)** that shows **real-time weather**, **5-day forecast**, **auto-location detection**, and a **Dark/Light mode toggle**.
 
 ---
@@ -197,8 +195,7 @@ Developed a modern GUI-based Weather Application using Python and Tkinter, featu
 
 ## 👨‍💻 Author
 
-Muhammad Talha Islam
-Linkedin: [your-profile-link](https://www.linkedin.com/in/talha-islam49599/)
+[Muhammad Talha Islam](https://www.linkedin.com/in/talha-islam49599/)
 
 ---
 
